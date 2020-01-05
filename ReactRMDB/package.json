@@ -17,6 +17,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+   "homepage" : "http://SandraCoburn.github.io/myapp"
   "eslintConfig": {
     "extends": "react-app"
   },
