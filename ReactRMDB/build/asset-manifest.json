@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/ReactPopMovies/static/js/main.cda7852d.chunk.js",
+    "main.js.map": "/ReactPopMovies/static/js/main.cda7852d.chunk.js.map",
+    "runtime~main.js": "/ReactPopMovies/static/js/runtime~main.9c1ab6ee.js",
+    "runtime~main.js.map": "/ReactPopMovies/static/js/runtime~main.9c1ab6ee.js.map",
+    "static/js/2.7a6002f6.chunk.js": "/ReactPopMovies/static/js/2.7a6002f6.chunk.js",
+    "static/js/2.7a6002f6.chunk.js.map": "/ReactPopMovies/static/js/2.7a6002f6.chunk.js.map",
+    "index.html": "/ReactPopMovies/index.html",
+    "precache-manifest.e23524fc8bbd5af44abf1b1940edec32.js": "/ReactPopMovies/precache-manifest.e23524fc8bbd5af44abf1b1940edec32.js",
+    "service-worker.js": "/ReactPopMovies/service-worker.js",
+    "static/media/no_image.jpg": "/ReactPopMovies/static/media/no_image.31f5bb1d.jpg",
+    "static/media/reactMovie_logo.png": "/ReactPopMovies/static/media/reactMovie_logo.08494abf.png",
+    "static/media/tmdb_logo.svg": "/ReactPopMovies/static/media/tmdb_logo.30cd724b.svg"
+  }
+}
