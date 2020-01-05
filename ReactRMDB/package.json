@@ -17,7 +17,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://SandraCoburn.github.io/ReactMovieApp",
   "eslintConfig": {
     "extends": "react-app"
   },
