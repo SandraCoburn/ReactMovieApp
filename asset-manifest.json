@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/ReactMovieApp/static/js/main.cda7852d.chunk.js",
+    "main.js.map": "/ReactMovieApp/static/js/main.cda7852d.chunk.js.map",
+    "runtime~main.js": "/ReactMovieApp/static/js/runtime~main.8ee48dba.js",
+    "runtime~main.js.map": "/ReactMovieApp/static/js/runtime~main.8ee48dba.js.map",
+    "static/js/2.a06edd3c.chunk.js": "/ReactMovieApp/static/js/2.a06edd3c.chunk.js",
+    "static/js/2.a06edd3c.chunk.js.map": "/ReactMovieApp/static/js/2.a06edd3c.chunk.js.map",
+    "index.html": "/ReactMovieApp/index.html",
+    "precache-manifest.adee14af4dd41c0d233d654e72f4c1fc.js": "/ReactMovieApp/precache-manifest.adee14af4dd41c0d233d654e72f4c1fc.js",
+    "service-worker.js": "/ReactMovieApp/service-worker.js",
+    "static/media/no_image.jpg": "/ReactMovieApp/static/media/no_image.31f5bb1d.jpg",
+    "static/media/reactMovie_logo.png": "/ReactMovieApp/static/media/reactMovie_logo.08494abf.png",
+    "static/media/tmdb_logo.svg": "/ReactMovieApp/static/media/tmdb_logo.30cd724b.svg"
+  }
+}
