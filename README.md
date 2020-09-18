@@ -5,4 +5,6 @@
 - Styled Components
 <br />
 <br />
-Deployed site: [ReactMovieApp]( https://sandracoburn.github.io/ReactMovieApp/)
+
+## Deployed site:
+[ReactMovieApp]( https://sandracoburn.github.io/ReactMovieApp/)
